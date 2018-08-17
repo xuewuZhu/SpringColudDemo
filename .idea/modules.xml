@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/appfeigncontroller/appfeigncontroller.iml" filepath="$PROJECT_DIR$/appfeigncontroller/appfeigncontroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controllers/controllers.iml" filepath="$PROJECT_DIR$/controllers/controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry.iml" filepath="$PROJECT_DIR$/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saas-controller/saascontroller.iml" filepath="$PROJECT_DIR$/saas-controller/saascontroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saas-service/saasservice.iml" filepath="$PROJECT_DIR$/saas-service/saasservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceapi/serviceapi.iml" filepath="$PROJECT_DIR$/serviceapi/serviceapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task/task.iml" filepath="$PROJECT_DIR$/task/task.iml" />
+    </modules>
+  </component>
+</project>
