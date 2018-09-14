@@ -32,6 +32,7 @@ public class TestController {
         stringBuilder.append(refactorHelloService.hello("didi")).append("\n");
         stringBuilder.append(refactorHelloService.hello("didi",27)).append("\n");
         stringBuilder.append(refactorHelloService.hello(new User("didi",28))).append("\n");
+        System.out.println("sdfdsfadsfadsfdsf");
         return stringBuilder.toString();
     }
 
