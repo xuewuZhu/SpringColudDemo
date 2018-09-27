@@ -37,4 +37,10 @@ public class TestController {
     }
 
 
+    public String test(){
+        System.out.print("dev");
+        return "dev";
+    }
+
+
 }
